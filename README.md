@@ -15,9 +15,4 @@ Welcome to the Weather Information App! This Ruby script uses the OpenWeatherMap
 - Ruby installed on your machine
 - Necessary gems: Nokogiri, open-uri
 
-### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/Weather-Information-App.git
