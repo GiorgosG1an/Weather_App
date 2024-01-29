@@ -15,4 +15,5 @@ Welcome to the Weather Information App! This Ruby script uses the OpenWeatherMap
 - Ruby installed on your machine
 - Necessary gems: Nokogiri, open-uri
 
-
+##License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
